@@ -1,0 +1,3 @@
+# https://stackoverflow.com/questions/73139649/you-installed-esbuild-on-another-platform-than-the-one-youre-currently-using-th
+node_modules/
+.nuxt/
